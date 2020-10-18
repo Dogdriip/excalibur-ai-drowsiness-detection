@@ -1,0 +1,6 @@
+scipy
+imutils
+dlib
+sklearn
+numpy
+opencv-python
