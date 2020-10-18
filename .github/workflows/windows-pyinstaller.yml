@@ -2,9 +2,9 @@ name: Build Windows App Bundle with PyInstaller
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   pull_request:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build-windows:
